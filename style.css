@@ -132,5 +132,6 @@ display: inline-block;
     display: inline-block;
     padding: 10px 10px;
     background-color: rgba(255,240,240,0.5);
+    padding: 20px 20px 20px 20px;
     border-radius: 12px;
 }
